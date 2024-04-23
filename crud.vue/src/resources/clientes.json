@@ -1,0 +1,40 @@
+{
+    "clients": [
+      {
+        "id": 1,
+        "foto": "https://images.unsplash.com/photo-1547425260-76bcadfb4f2c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8cGVyc29uYXxlbnwwfHwwfHx8MA%3D%3D&w=1000&q=80",
+        "nombre": "Juan",
+        "apellido":"Pérez",
+        "fechaUltimaCompra": "10-05-2023"
+      },
+      {
+        "id": 2,
+        "foto": "https://img.freepik.com/foto-gratis/retrato-joven-rubio-mujer_273609-12060.jpg",
+        "nombre": "María",
+        "apellido":"Gómez",
+        "fechaUltimaCompra": "15-06-2023"
+      },
+      {
+        "id": 3,
+        "foto": "https://img.freepik.com/foto-gratis/chico-guapo-seguro-posando-contra-pared-blanca_176420-32936.jpg",
+        "nombre": "Carlos",
+        "apellido":"Rodríguez",
+        "fechaUltimaCompra": "20-04-2023"
+      },
+      {
+        "id": 4,
+        "foto": "https://www.ashoka.org/sites/default/files/styles/medium_1600x1000/public/thumbnails/images/daniela-kreimer.jpg?itok=R89tVtb4",
+        "nombre": "Laura",
+        "apellido":"Martínez",
+        "fechaUltimaCompra": "05-07-2023"
+      },
+      {
+        "id": 5,
+        "foto": "https://www.trendtic.cl/wp-content/uploads/2018/05/003-Rub%C3%A9n-Belluomo-INFOR-2018.jpg",
+        "nombre": "Manuel",
+        "apellido":"Olvarría",
+        "fechaUltimaCompra": "17-07-2023"
+      }
+    ]
+  }
+  

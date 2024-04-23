@@ -1,0 +1,84 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "foto": "https://nikearprod.vtexassets.com/arquivos/ids/531176/DR0148_100_A_PREM.jpg?v=638161375244170000",
+      "nombre": "Zapatillas Nike",
+      "modelo": "Air Force 1",
+      "precio": "3999.99 ARS",
+      "stock": 5
+    },
+    {
+      "id": "2",
+      "foto": "https://www.moov.com.ar/on/demandware.static/-/Sites-365-dabra-catalog/default/dw50c530a7/products/NI_CT1265-300/NI_CT1265-300-1.JPG",
+      "nombre": "Zapatillas Nike",
+      "modelo": "Air Max 270",
+      "precio": "4599.99 ARS",
+      "stock": 4
+    },
+    {
+      "id": "3",
+      "foto": "https://www.tripstore.com.ar/media/catalog/product/cache/4769e4d9f3516e60f2b4303f8e5014a8/C/I/CI3831-800_0.jpg",
+      "nombre": "Zapatillas Nike",
+      "modelo": "React Element",
+      "precio": "3799.99 ARS",
+      "stock": 0
+    },
+    {
+      "id": "4",
+      "foto": "https://nikearprod.vtexassets.com/arquivos/ids/380438-800-800?v=638138949399100000&width=800&height=800&aspect=true",
+      "nombre": "Zapatillas Nike",
+      "modelo": "Zoom Pegasus",
+      "precio": "3299.99 ARS",
+      "stock": 3
+    },
+    {
+      "id": "5",
+      "foto": "https://nikearprod.vtexassets.com/arquivos/ids/531140/DQ8426_060_A_PREM.jpg?v=638161374684830000",
+      "nombre": "Zapatillas Nike",
+      "modelo": "Air Jordan 1",
+      "precio": "5499.99 ARS",
+      "stock": 1
+    },
+    {
+      "id": "6",
+      "foto": "https://nikearprod.vtexassets.com/arquivos/ids/542903/DV0796_001_C_PREM.jpg?v=638162167203270000",
+      "nombre": "Zapatillas Nike",
+      "modelo": "Blazer Mid",
+      "precio": "3199.99 ARS",
+      "stock": 0
+    },
+    {
+      "id": "7",
+      "foto": "https://d3ugyf2ht6aenh.cloudfront.net/stores/986/786/products/4f35a12d-78f9-484d-a0c1-9102e35b71b6-95fa6e928cb2cc930c16615635866492-480-0.jpeg",
+      "nombre": "Zapatillas Nike",
+      "modelo": "Kyrie Low",
+      "precio": "4199.99 ARS",
+      "stock": 7
+    },
+    {
+      "id": "8",
+      "foto": "https://nikearprod.vtexassets.com/arquivos/ids/700165-800-800?v=638229717993930000&width=800&height=800&aspect=true",
+      "nombre": "Zapatillas Nike",
+      "modelo": "Air Max 90",
+      "precio": "4899.99 ARS",
+      "stock": 6
+    },
+    {
+      "id": "9",
+      "foto": "https://nikearprod.vtexassets.com/arquivos/ids/643436/CZ1891_008_A_PREM.jpg?v=638211346279830000",
+      "nombre": "Zapatillas Nike",
+      "modelo": "Free Run",
+      "precio": "3499.99 ARS",
+      "stock": 2
+    },
+    {
+      "id": "10",
+      "foto": "https://d3ugyf2ht6aenh.cloudfront.net/stores/194/524/products/0011-09841aca97440aa05016567900029100-1024-1024.jpg",
+      "nombre": "Zapatillas Nike",
+      "modelo": "SB Dunk Low",
+      "precio": "4299.99 ARS",
+      "stock": 5
+    }
+  ]
+}
